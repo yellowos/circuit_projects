@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [RC_lowpass.PrjPcb]
+   Generated File[RC_lowpass.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:11:16 On 2017/3/13
