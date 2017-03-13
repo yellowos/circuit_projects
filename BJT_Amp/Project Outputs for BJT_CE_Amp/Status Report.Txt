@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [BJT_CE_Amp.PrjPcb]
+   Generated File[BJT_CE_Amp.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:23:38 On 2017/3/13
