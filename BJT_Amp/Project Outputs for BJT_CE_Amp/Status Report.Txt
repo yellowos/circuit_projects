@@ -7,4 +7,4 @@ From  : Project [BJT_CE_Amp.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 22:23:38 On 2017/3/13
+Finished Output Generation At 10:39:39 On 2017/3/17
