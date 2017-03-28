@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [op_amp_with_single_power.PrjPcb]
+   Generated File[op_amp_with_single_power.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:35:02 On 2017/3/28
