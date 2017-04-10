@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [OPA_Loop.PrjPcb]
+   Generated File[OPA_Loop.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:11:48 On 2017/4/10
