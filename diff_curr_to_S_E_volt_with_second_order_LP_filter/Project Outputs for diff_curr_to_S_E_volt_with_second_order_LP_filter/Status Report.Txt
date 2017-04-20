@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [diff_curr_to_S_E_volt_with_second_order_LP_filter.PrjPcb]
+   Generated File[diff_curr_to_S_E_volt_with_second_order_LP_filter.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:07:25 On 2017/4/20
