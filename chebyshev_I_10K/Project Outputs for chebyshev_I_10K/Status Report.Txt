@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [chebyshev_I_10K.PrjPcb]
+   Generated File[chebyshev_I_10K.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:40:08 On 2017/7/25
